@@ -1,0 +1,4 @@
+Telethon
+pyautogui
+requests
+python-dotenv
